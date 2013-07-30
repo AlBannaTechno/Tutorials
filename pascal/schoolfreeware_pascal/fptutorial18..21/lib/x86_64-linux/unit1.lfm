@@ -1,0 +1,152 @@
+object FrmMain: TFrmMain
+  Left = 235
+  Height = 430
+  Top = 152
+  Width = 550
+  Caption = 'Simple Calculator'
+  ClientHeight = 430
+  ClientWidth = 550
+  LCLVersion = '0.9.30'
+  object Label1: TLabel
+    Left = 32
+    Height = 34
+    Top = 24
+    Width = 161
+    Caption = 'First Number'
+    Font.Height = -27
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 32
+    Height = 34
+    Top = 116
+    Width = 198
+    Caption = 'Second Number'
+    Font.Height = -27
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 32
+    Height = 34
+    Top = 228
+    Width = 90
+    Caption = 'Answer'
+    Font.Height = -27
+    ParentColor = False
+    ParentFont = False
+  end
+  object edFirst: TEdit
+    Left = 32
+    Height = 43
+    Top = 52
+    Width = 198
+    Font.Height = -27
+    ParentFont = False
+    TabOrder = 0
+  end
+  object edSecond: TEdit
+    Left = 32
+    Height = 43
+    Top = 148
+    Width = 198
+    Font.Height = -27
+    ParentFont = False
+    TabOrder = 1
+  end
+  object edAnswer: TEdit
+    Left = 32
+    Height = 43
+    Top = 260
+    Width = 198
+    Font.Height = -27
+    ParentFont = False
+    TabOrder = 2
+  end
+  object btnSubmit: TButton
+    Left = 32
+    Height = 41
+    Top = 324
+    Width = 198
+    Caption = 'Submit'
+    Font.Height = -27
+    OnClick = btnSubmitClick
+    ParentFont = False
+    TabOrder = 3
+  end
+  object rgpOperator: TRadioGroup
+    Left = 256
+    Height = 278
+    Top = 32
+    Width = 222
+    AutoFill = True
+    Caption = 'Select an Operator'
+    ChildSizing.LeftRightSpacing = 6
+    ChildSizing.TopBottomSpacing = 6
+    ChildSizing.EnlargeHorizontal = crsHomogenousChildResize
+    ChildSizing.EnlargeVertical = crsHomogenousChildResize
+    ChildSizing.ShrinkHorizontal = crsScaleChilds
+    ChildSizing.ShrinkVertical = crsScaleChilds
+    ChildSizing.Layout = cclLeftToRightThenTopToBottom
+    ChildSizing.ControlsPerLine = 1
+    ClientHeight = 253
+    ClientWidth = 218
+    Font.Height = -19
+    ParentFont = False
+    TabOrder = 4
+    object rBtnAdd: TRadioButton
+      Left = 6
+      Height = 61
+      Top = 6
+      Width = 206
+      Caption = 'Add'
+      Checked = True
+      Font.Height = -27
+      ParentFont = False
+      TabOrder = 3
+      TabStop = True
+    end
+    object rBtnSub: TRadioButton
+      Left = 6
+      Height = 61
+      Top = 67
+      Width = 206
+      Caption = 'Subtract'
+      Font.Height = -27
+      ParentFont = False
+      TabOrder = 2
+    end
+    object rBtnMult: TRadioButton
+      Left = 6
+      Height = 61
+      Top = 128
+      Width = 206
+      Caption = 'Multiply'
+      Font.Height = -27
+      ParentFont = False
+      TabOrder = 0
+    end
+    object rBtnDiv: TRadioButton
+      Left = 6
+      Height = 58
+      Top = 189
+      Width = 206
+      Caption = 'Divide'
+      Font.Height = -27
+      ParentFont = False
+      TabOrder = 1
+    end
+  end
+  object btnClear: TButton
+    Left = 280
+    Height = 41
+    Top = 328
+    Width = 198
+    Caption = 'Clear'
+    Font.Height = -27
+    OnClick = btnClearClick
+    ParentFont = False
+    TabOrder = 5
+  end
+end

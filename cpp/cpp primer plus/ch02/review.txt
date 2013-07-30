@@ -1,0 +1,13 @@
+1. Modules are known as libraries
+2. Allow usage of functions defined in the iostream header file
+3. Allow the usage of standard functions without std:: prefix
+4. cout << "Hello, world" << endl;
+5. int cheeses;
+6. cheeses = 32;
+7. cin >> cheeses;
+8. cout << "We have " << cheeses << " varieties of cheese." << endl;
+9. 1) this function requires a double and will return an int
+   2) this function requires an int and has no return value
+   3) this function has no arguments and returns an int
+10. If the function does not have a return type, and is defined with 'void'
+11. #include <iostream>, using namespace std, or std::cout

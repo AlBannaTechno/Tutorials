@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1" Active="Default">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication Use="True" PathPlusParams="/usr/bin/xterm -bg black -fg white -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <Units Count="19">
+      <Unit0>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GeneralTutorial"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="123"/>
+        <CursorPos X="5" Y="165"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="fptutorial5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FPTutorial5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="5" Y="39"/>
+        <UsageCount Value="38"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="fptutorial6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FPTutorial6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5"/>
+        <CursorPos X="11" Y="34"/>
+        <UsageCount Value="38"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="fptutorial7.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FPTutorial7"/>
+        <EditorIndex Value="15"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="20" Y="28"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/applications/mousepad.desktop"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="8"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="fptutorial8a.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="fptutorial8a"/>
+        <EditorIndex Value="14"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="23" Y="38"/>
+        <UsageCount Value="38"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="fptutorial8b.pas"/>
+        <UnitName Value="fptutorial8b"/>
+        <EditorIndex Value="13"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="35"/>
+        <CursorPos X="41" Y="45"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="fptutorial8c.pas"/>
+        <UnitName Value="fptutorial8c"/>
+        <EditorIndex Value="12"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="22"/>
+        <CursorPos X="18" Y="45"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="fptutorial9a.pas"/>
+        <UnitName Value="fptutorial9a"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="5" Y="31"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="fptutorial9b.pas"/>
+        <UnitName Value="fptutorial9b"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="8" Y="28"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="fptutorial10.pas"/>
+        <UnitName Value="fptutorial10"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="36" Y="10"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="fptutorial11a.pas"/>
+        <UnitName Value="fptutorial11a"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="12"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="fptutorial11b.pas"/>
+        <UnitName Value="fptutorial11b"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="6" Y="37"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="fptutorial12.pas"/>
+        <UnitName Value="fptutorial12"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="fptutorial13a.pas"/>
+        <UnitName Value="fptutorial13a"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6"/>
+        <CursorPos X="7" Y="17"/>
+        <UsageCount Value="15"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="fptutorial13b.pas"/>
+        <UnitName Value="fptutorial13b"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="25"/>
+        <CursorPos X="33" Y="45"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="fptutorial13c.pas"/>
+        <UnitName Value="fptutorial13c"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="35"/>
+        <CursorPos X="11" Y="36"/>
+        <UsageCount Value="14"/>
+        <Loaded Value="True"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="fptutorial13d.pas"/>
+        <UnitName Value="fptutorial13d"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="9" Y="27"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="fptutorial14.pas"/>
+        <UnitName Value="fptutorial14"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="133"/>
+        <CursorPos X="5" Y="165"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit18>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="13" Column="18" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="7" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="32" Column="19" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="7" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="32" Column="19" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="5" TopLine="10"/>
+      </Position6>
+      <Position7>
+        <Filename Value="fptutorial12.pas"/>
+        <Caret Line="13" Column="18" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="3" TopLine="10"/>
+      </Position8>
+      <Position9>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="26" Column="1" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="7" TopLine="10"/>
+      </Position10>
+      <Position11>
+        <Filename Value="fptutorial13a.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="31" Column="3" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="fptutorial13b.pas"/>
+        <Caret Line="38" Column="14" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="102" Column="5" TopLine="60"/>
+      </Position14>
+      <Position15>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="55" Column="5" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="fptutorial13c.pas"/>
+        <Caret Line="1" Column="12" TopLine="1"/>
+      </Position16>
+      <Position17>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="45" Column="33" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="fptutorial13d.pas"/>
+        <Caret Line="14" Column="18" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="77" Column="5" TopLine="35"/>
+      </Position19>
+      <Position20>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="45" Column="8" TopLine="32"/>
+      </Position20>
+      <Position21>
+        <Filename Value="fptutorial14.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position21>
+      <Position22>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="27" Column="15" TopLine="1"/>
+      </Position22>
+      <Position23>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="165" Column="7" TopLine="123"/>
+      </Position23>
+      <Position24>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="110" Column="10" TopLine="89"/>
+      </Position24>
+      <Position25>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="129" Column="9" TopLine="108"/>
+      </Position25>
+      <Position26>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="156" Column="23" TopLine="135"/>
+      </Position26>
+      <Position27>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="160" Column="33" TopLine="121"/>
+      </Position27>
+      <Position28>
+        <Filename Value="fptutorial14.pas"/>
+        <Caret Line="156" Column="23" TopLine="129"/>
+      </Position28>
+      <Position29>
+        <Filename Value="fptutorial14.pas"/>
+        <Caret Line="133" Column="9" TopLine="133"/>
+      </Position29>
+      <Position30>
+        <Filename Value="GeneralTutorial.lpr"/>
+        <Caret Line="133" Column="9" TopLine="123"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="9"/>
+    <Target>
+      <Filename Value="GeneralTutorial"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

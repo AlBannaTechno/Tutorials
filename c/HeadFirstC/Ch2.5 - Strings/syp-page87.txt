@@ -1,0 +1,2 @@
+The strstr() function would be used for the jukebox program since it can take user input and search
+the array of song titles for what the user entered.

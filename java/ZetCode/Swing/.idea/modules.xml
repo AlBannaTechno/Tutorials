@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - First Programs/01 - First Programs.iml" filepath="$PROJECT_DIR$/01 - First Programs/01 - First Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Menus and Toolbars/02 - Menus and Toolbars.iml" filepath="$PROJECT_DIR$/02 - Menus and Toolbars/02 - Menus and Toolbars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Layout Management/03 - Layout Management.iml" filepath="$PROJECT_DIR$/03 - Layout Management/03 - Layout Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - Events/04 - Events.iml" filepath="$PROJECT_DIR$/04 - Events/04 - Events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Dialogs/05 - Dialogs.iml" filepath="$PROJECT_DIR$/05 - Dialogs/05 - Dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - Components/06 - Components.iml" filepath="$PROJECT_DIR$/06 - Components/06 - Components.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Components 2/07 - Components 2.iml" filepath="$PROJECT_DIR$/07 - Components 2/07 - Components 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - Models/08 - Models.iml" filepath="$PROJECT_DIR$/08 - Models/08 - Models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - Drag and Drop/09 - Drag and Drop.iml" filepath="$PROJECT_DIR$/09 - Drag and Drop/09 - Drag and Drop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - Painting/10 - Painting.iml" filepath="$PROJECT_DIR$/10 - Painting/10 - Painting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - Resizable Component/11 - Resizable Component.iml" filepath="$PROJECT_DIR$/11 - Resizable Component/11 - Resizable Component.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,3 @@
+The above code will not run because latitude and longitude are not being changed in main, only the
+variables lat and lon are being effected in go_south_east(). go_south_east() is neither altering the
+original variables in main, or returning any variables, so nothing will change.

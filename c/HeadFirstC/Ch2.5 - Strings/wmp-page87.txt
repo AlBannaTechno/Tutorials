@@ -1,0 +1,6 @@
+strchr()    ->      Find the location of a character inside a string
+strcmp()    ->      Compare two strings
+strstr()    ->      Find the location of a string inside another string
+strcpy()    ->      Copy one string to another
+strlen()    ->      Find the legnth of a string
+strcat()    ->      Concatenate two strings

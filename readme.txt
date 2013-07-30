@@ -1,0 +1,1 @@
+95% of the stuff here is hard copied from sites or books as I follow tutorials for various languages or tools.

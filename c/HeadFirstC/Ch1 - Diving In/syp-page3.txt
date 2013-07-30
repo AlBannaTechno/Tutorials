@@ -1,0 +1,35 @@
+Page 3 - Sharpen Your Pencil
+
+int card_count = 11;                                Initialize card_count as int and set to 11
+if (card_count > 10)                                if count is greater than 10, print message
+    puts("The deck is hot. Increase bet.");         message to print
+
+int c = 10;                                         initialize c as in and set to 10
+while (c > 10) {                                    loop while c is larger than 10, won't this get skipped?
+        puts("I must not write code in class.");    print message
+        c = c - 1;                                  decrement c
+}
+
+/* Assume name shorter than 20 chars. */            multi-line comment used on a single line. WHY?!
+char ex[20];                                        create a char array of size 20
+puts("Enter boyfriend's name: ");                   print message
+scanf("%19s", ex);                                  read user input and put into ex
+printf("Dear %s.\n\n\tYou're history.\n", ex);      print message
+
+char suit = 'H';                                    initialize suit as char and set to 'H'
+switch (suit) {                                     switch statement
+    case 'C':                                       if suit == 'C' do stuff
+        puts("Clubs");                              print message
+        break;                                      exit the switch statement
+
+    case 'D':                                       if suit == 'D' do stuff
+        puts("Diamonds");                           print message
+        break;                                      exit the switch statement
+
+    case 'H':                                       if suit == 'H' do stuff
+        puts("Hearts");                             print message
+        break;                                      exit the switch statement
+
+    default:                                        if nothing else, do this
+        puts("Spades");                             print message
+}

@@ -1,0 +1,66 @@
+object Form1: TForm1
+  Left = 584
+  Height = 369
+  Top = 316
+  Width = 633
+  Caption = 'Form1'
+  ClientHeight = 369
+  ClientWidth = 633
+  OnCreate = FormCreate
+  OnKeyPress = FormKeyPress
+  LCLVersion = '0.9.30'
+  object Shape1: TShape
+    Left = 74
+    Height = 65
+    Top = 30
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape2: TShape
+    Left = 296
+    Height = 65
+    Top = 144
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape3: TShape
+    Left = 272
+    Height = 65
+    Top = 40
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape4: TShape
+    Left = 72
+    Height = 65
+    Top = 152
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape5: TShape
+    Left = 472
+    Height = 65
+    Top = 80
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Shape6: TShape
+    Left = 240
+    Height = 65
+    Top = 248
+    Width = 65
+    Brush.Color = clRed
+    Shape = stCircle
+  end
+  object Timer1: TTimer
+    Interval = 1
+    OnTimer = Timer1Timer
+    left = 16
+    top = 320
+  end
+end

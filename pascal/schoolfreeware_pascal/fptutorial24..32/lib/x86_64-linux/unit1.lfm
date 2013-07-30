@@ -1,0 +1,77 @@
+object frmMain: TfrmMain
+  Left = 320
+  Height = 525
+  Top = 244
+  Width = 775
+  ActiveControl = edHour
+  Caption = 'Quick Clock Quizzer'
+  ClientHeight = 525
+  ClientWidth = 775
+  Color = clCream
+  Constraints.MaxHeight = 600
+  Constraints.MaxWidth = 800
+  OnPaint = FormPaint
+  Position = poDesktopCenter
+  LCLVersion = '0.9.30'
+  object btnSubmit: TButton
+    Left = 608
+    Height = 43
+    Top = 400
+    Width = 146
+    Caption = 'Submit'
+    Font.Height = -27
+    OnClick = btnSubmitClick
+    ParentFont = False
+    TabOrder = 2
+  end
+  object edMin: TEdit
+    Left = 688
+    Height = 43
+    Top = 344
+    Width = 66
+    Font.Height = -27
+    OnKeyPress = edMinKeyPress
+    ParentFont = False
+    TabOrder = 1
+  end
+  object edHour: TEdit
+    Left = 608
+    Height = 43
+    Top = 344
+    Width = 64
+    Font.Height = -27
+    OnKeyPress = edHourKeyPress
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 608
+    Height = 34
+    Top = 304
+    Width = 138
+    Caption = 'Enter Time:'
+    Font.Height = -27
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 675
+    Height = 34
+    Top = 347
+    Width = 8
+    Caption = ':'
+    Font.Height = -27
+    ParentColor = False
+    ParentFont = False
+  end
+  object lblCorrect: TLabel
+    Left = 608
+    Height = 25
+    Top = 476
+    Width = 68
+    Caption = 'Correct'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+end

@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main()
+{
+    int x = 0;
+    int y = 0;
+
+    while (x < 5) {
+        /*
+         * candidate code goes here
+         */
+
+        printf("%i%i ", x, y);
+    }
+
+    return 0;
+}
+
+//
+y = x - y;              output: 00 11 21 32 42
+
+//
+y = y + x;              output: 00 11 23 36 410
+
+//
+y = y + 2;              output: 02 14 25 36 47
+if (y > 4)
+    y = y - 1;
+
+//
+x = x + 1;              output: 11 34 59
+y = y + x;
+
+//
+if (y < 5) {            output: 02 14 36 48
+    x = x + 1;
+    if (y < 3)
+        x = x - 1;
+}
+y = y + 2;
