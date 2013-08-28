@@ -1,1 +1,1 @@
-95% of the stuff here is hard copied from sites or books as I follow tutorials for various languages or tools.
+This section is mostly hard copied code from tutorials or exercises for various languages.
