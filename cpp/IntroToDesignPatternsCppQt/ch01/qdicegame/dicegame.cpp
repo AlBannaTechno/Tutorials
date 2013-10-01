@@ -1,5 +1,5 @@
-#include <QString>
-#include <QTextStream>
+#include <QtCore/QString>
+#include <QtCore/QTextStream>
 
 #include <cstdlib>
 #include <ctime>
