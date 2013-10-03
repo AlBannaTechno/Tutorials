@@ -4,10 +4,7 @@ Position::Position(QString name, QString description)
     : m_Name(name), m_Description(description) { }
 
 QString Position::toString() const {
-    QString desc;
-    desc << m_Name << ":\n"
-         << m_Description << ".";
-    return desc;
+    return QString("%1:\n%2.").arg(m_Name).arg(m_Description);
 }
 
 QString Position::getName() const {

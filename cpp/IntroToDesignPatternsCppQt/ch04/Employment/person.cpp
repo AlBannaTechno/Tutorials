@@ -3,7 +3,11 @@
 Person::Person(QString name)
     : m_Name(name), m_Employed(false), m_Employer("None", "N/A"), m_Position("None", "N/A") { }
 
-void Person::newPosition(Employer newEmployer, Position newPosition) {
+bool Person::apply(Position *newPosition) {
+
+}
+
+void Person::newPosition(const Employer &newEmployer, const Position &newPosition) {
     m_Employer = newEmployer;
     m_Position = newPosition;
     m_Employed = true;
@@ -12,12 +16,12 @@ void Person::newPosition(Employer newEmployer, Position newPosition) {
 QString Person::toString() const {
     QString desc;
 
-    desc << m_Name;
+    desc.append(m_Name);
     if (m_Employed)
-        desc << " is currently employed by " << m_Employer.getName() << ", working in "
-             << m_Position.getName() << ".";
+        desc.append(QString(" is currently employed by %1, working in %2.")
+                    .arg(m_Employer.getName()).arg(m_Position.getName()));
     else
-        desc << " is not currently employed.";
+        desc.append(" is not employed.");
 
     return desc;
 }
@@ -48,4 +52,6 @@ Person &Person::operator=(const Person &other) {
     m_Employed = other.m_Employed;
     m_Employer = other.m_Employer;
     m_Position = other.m_Position;
+
+    return *this;
 }
