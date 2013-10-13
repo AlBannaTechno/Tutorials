@@ -17,7 +17,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" assert-keyword="true" jdk-15="true" project-jdk-name="Python 3.3.2 (C:/Python33/python.exe)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" assert-keyword="false" jdk-15="false" project-jdk-name="Python 3.3.2 (C:/Python33/python.exe)" project-jdk-type="Python SDK" />
   <component name="ScalaProjectSettings">
     <option name="importsWithPrefix">
       <array>

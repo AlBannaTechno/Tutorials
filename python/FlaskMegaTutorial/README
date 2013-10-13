@@ -1,0 +1,6 @@
+Just following the Flask Mega Tutorial
+http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+but one -small- change, in Python 3.3! I've made some changes, like using Alembic and flask-migrate (check out manage.py and db_create.py).
+
+I'll update this as I continue through it.
