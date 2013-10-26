@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Datagrams/Datagrams.iml" filepath="$PROJECT_DIR$/Datagrams/Datagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/Oracle.iml" filepath="$PROJECT_DIR$/Oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI/RMI.iml" filepath="$PROJECT_DIR$/RMI/RMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sockets/Sockets.iml" filepath="$PROJECT_DIR$/Sockets/Sockets.iml" />
     </modules>
   </component>
