@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" hash="2085860784">
-    <data-source source="LOCAL" name="app" uuid="00c5ff6e-9c2a-4e10-b3fb-fa2c94b2149f">
+    <data-source source="LOCAL" name="app" product="SQLite" version="3.7.6.3" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" uuid="00c5ff6e-9c2a-4e10-b3fb-fa2c94b2149f">
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:C:\Users\Slxe\Code\Tutorials\python\FlaskMegaTutorial\microblog\app.db</jdbc-url>
       <libraries>
