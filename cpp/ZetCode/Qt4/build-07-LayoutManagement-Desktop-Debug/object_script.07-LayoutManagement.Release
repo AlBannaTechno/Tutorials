@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/absolute.o
+./release/verticalbox.o
+./release/buttons.o
+./release/layouts.o
+./release/calculator.o
+./release/karenina.o
+./release/moc_absolute.o
+./release/moc_verticalbox.o
+./release/moc_buttons.o
+);

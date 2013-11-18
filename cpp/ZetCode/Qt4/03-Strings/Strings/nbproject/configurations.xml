@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="90">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>strings.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>access.cpp</itemPath>
+      <itemPath>basic.cpp</itemPath>
+      <itemPath>comparing.cpp</itemPath>
+      <itemPath>converts.cpp</itemPath>
+      <itemPath>init.cpp</itemPath>
+      <itemPath>interpolation.cpp</itemPath>
+      <itemPath>length.cpp</itemPath>
+      <itemPath>letters.cpp</itemPath>
+      <itemPath>looping.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>modify.cpp</itemPath>
+      <itemPath>substrings.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="4">
+      <toolsSet>
+        <compilerSet>MinGW|MinGW</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <qt>
+        <modules>core gui widgets</modules>
+      </qt>
+      <compileType>
+      </compileType>
+      <item path="access.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="basic.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="comparing.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="converts.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="init.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interpolation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="length.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="letters.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="looping.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="modify.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="strings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="substrings.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="4">
+      <toolsSet>
+        <compilerSet>CLang|CLang</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <qt>
+        <buildMode>1</buildMode>
+        <modules>core gui widgets</modules>
+      </qt>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="access.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="basic.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="comparing.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="converts.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="init.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interpolation.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="length.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="letters.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="looping.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="modify.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="strings.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="substrings.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

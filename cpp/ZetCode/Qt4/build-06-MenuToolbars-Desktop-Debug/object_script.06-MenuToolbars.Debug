@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/simplemenu.o
+./debug/anothermenu.o
+./debug/checkable.o
+./debug/toolbar.o
+./debug/skeleton.o
+./debug/moc_simplemenu.o
+./debug/moc_checkable.o
+./debug/moc_toolbar.o
+./debug/moc_skeleton.o
+./debug/qrc_resources.o
+);

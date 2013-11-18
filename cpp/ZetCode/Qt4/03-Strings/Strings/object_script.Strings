@@ -1,0 +1,14 @@
+INPUT(
+./build/Debug/MinGW-Windows/access.o
+./build/Debug/MinGW-Windows/basic.o
+./build/Debug/MinGW-Windows/comparing.o
+./build/Debug/MinGW-Windows/converts.o
+./build/Debug/MinGW-Windows/init.o
+./build/Debug/MinGW-Windows/interpolation.o
+./build/Debug/MinGW-Windows/length.o
+./build/Debug/MinGW-Windows/letters.o
+./build/Debug/MinGW-Windows/looping.o
+./build/Debug/MinGW-Windows/main.o
+./build/Debug/MinGW-Windows/modify.o
+./build/Debug/MinGW-Windows/substrings.o
+);

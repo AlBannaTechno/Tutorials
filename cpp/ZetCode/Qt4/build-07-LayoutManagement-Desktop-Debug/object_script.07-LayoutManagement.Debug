@@ -1,0 +1,12 @@
+INPUT(
+./debug/main.o
+./debug/absolute.o
+./debug/verticalbox.o
+./debug/buttons.o
+./debug/layouts.o
+./debug/calculator.o
+./debug/karenina.o
+./debug/moc_absolute.o
+./debug/moc_verticalbox.o
+./debug/moc_buttons.o
+);
