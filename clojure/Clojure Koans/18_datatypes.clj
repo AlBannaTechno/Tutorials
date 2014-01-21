@@ -7,17 +7,18 @@
 (defrecord Oscar [category]
   Award
   (present [this recipient]
-           (print (str "Congratulations on your "
-                       (:category this) " Oscar, "
-                       recipient
-                       "!"))))
+    (print (str "Congratulations on your "
+                (:category this) " Oscar, "
+                recipient
+                "!"))))
 
 (deftype Razzie [category]
   Award
   (present [this recipient]
-           (print (str "You're really the "
-                       (.category this) ", "
-                       recipient "... sorry."))))
+    (print (str "You're really the "
+                category ", "
+                recipient
+                "... sorry."))))
 
 
 ;; Holding records is meaningful only when the record is worthy of you
@@ -41,5 +42,5 @@
    (with-out-str (present (Oscar. "Best Picture") "Evil Alien Conquerors")))
 
 ;; Surely we can implement our own by now
-(= "You're really the Worst Picture, Final Desination 5... sorry."
+(= "You're really the Worst Picture, Final Destination 5... sorry."
    (with-out-str (present (Razzie. "Worst Picture") "Final Destination 5")))
