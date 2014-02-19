@@ -169,13 +169,103 @@
   {:username username
    :join-date join-date
    :email email
-   ;; 2.592e9 -> one month in ms
    :exp-date (java.util.Date. (long (+ 2.592e9 (.getTime join-date))))})
+
 (make-user "Bobby")
 (make-user "Bobby"
            :join-date (java.util.Date. 111 0 1)
            :email "bobby@example.com")
 
 (fn [x y] (Math/pow x y))
-;; can be defined as
+;; can be written as an anonymous function
 #(Math/pow %1 %2)
+
+(read-string "#(Math/pow %1 %2)")
+
+(fn [x y]
+  (println (str x \^ y))
+  (Math/pow x y))
+;; anonymous functions don't wrap themselves in an implicit do form, so the above would be
+(#(do (println (str %1 \^ %2))
+      (Math/pow %1 %2)) 2 3)
+
+(fn [x & rest]
+  (- x (apply - rest)))
+;; function literals can also take 'the rest' of variables given to it, by using %&
+(#(- % (apply + %&)) 1 2 3 4 5)
+
+(fn [x]
+  (fn [y]
+    (+ x y)))
+;; Although the above is acceptable, this won't work as an anonymous function
+;;#(#(+ % %))
+
+;; logical truth is anything other than false or nil
+(if "hi" \t)
+(if 42 \t)
+(if nil "unevaluated" \f)
+(if false "unevaluated" \f)
+(if (not true) \t)
+
+;; Clojure provides true? and false? predicates, but these ONLY check for boolean values
+(true? "string")
+(if "string" \t \f)
+
+(loop [x 5]
+  (if (neg? x)
+    x
+    (recur (dec x))))
+
+(defn countdown
+  [x]
+  (if (zero? x)
+    :BLASTOFF!
+    (do (println x)
+      (recur (dec x)))))
+(countdown 5)
+
+(def x 5)
+x
+(var x)
+#'x
+
+;; Java interlop following, the equivalent in Java, sugared Clojure and special form version
+;; new java.util.ArrayList(100)
+(java.util.ArrayList. 100)
+(new java.util.ArrayList 100)
+
+;;Math.pow(2, 10)
+(Math/pow 2 10)
+(. Math pow 2 10)
+
+;; "Hello".substring(1, 3)
+(.substring "Hello" 1 3)
+(. "Hello" substring 1 3)
+
+;; Integer.MAX_VALUE
+Integer/MAX_VALUE
+(. Integer MAX_VALUE)
+
+;; someObject.someField
+(.someField some-object)
+(. some-object some-field)
+
+(defn average
+  [numbers]
+  (/ (apply + numbers) (count numbers)))
+;; is equivalent to
+(def average (fn average
+               [numbers]
+               (/ (apply + numbers) (count numbers))))
+
+;; A simple, naive reimplementation of Clojure's REPL
+(defn embedded-repl
+  "A naive Clojure REPL implementation. Enter ':quit' to exit."
+  []
+  (print (str (ns-name *ns*) ">>> "))
+  (flush)
+  (let [expr (read)
+        value (eval expr)]
+    (when (not= :quit value)
+      (println value)
+      (recur))))
