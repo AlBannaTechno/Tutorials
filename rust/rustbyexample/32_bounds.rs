@@ -5,7 +5,9 @@ struct Vec2<T> {
 }
 
 // Bound: 'T' must implement the 'Add' trait
-impl<T: Add<T, T>> Add<Vec2<T>, Vec2<T>> for Vec2<T> {
+// impl<T: Add<T, T>> Add<Vec2<T>, Vec2<T>> for Vec2<T> {
+impl<T> Add<Vec2<T>, Vec2<T>> for Vec2<T>
+where T: Add<T, T> {
     fn add(self, rhs: Vec2<T>) -> Vec2<T> {
         Vec2 {
             // 'x' and 'y' are of type 'T', and implement the 'add' method
@@ -17,7 +19,9 @@ impl<T: Add<T, T>> Add<Vec2<T>, Vec2<T>> for Vec2<T> {
 }
 
 // Bound: 'T' must implement the 'Sub' trait
-impl<T: Sub<T, T>> Sub<Vec2<T>, Vec2<T>> for Vec2<T> {
+// impl<T: Sub<T, T>> Sub<Vec2<T>, Vec2<T>> for Vec2<T> {
+impl<T> Sub<Vec2<T>, Vec2<T>> for Vec2<T>
+where T:Sub<T, T> {
     fn sub(self, rhs: Vec2<T>) -> Vec2<T> {
         Vec2 {
             x: self.x - rhs.x,
@@ -27,7 +31,9 @@ impl<T: Sub<T, T>> Sub<Vec2<T>, Vec2<T>> for Vec2<T> {
 }
 
 // Bound: 'T' must implement *both* the 'Add' trait and the 'Mul' trait
-impl<T: Add<T, T> + Mul<T, T>> Vec2<T> {
+// impl<T: Add<T, T> + Mul<T, T>> Vec2<T> {
+impl<T> Vec2<T>
+where T: Add<T, T>, T: Mul<T, T> {
     fn dot(self, rhs: Vec2<T>) -> T {
         (self.x * rhs.x) + (self.y * rhs.y)
     }
