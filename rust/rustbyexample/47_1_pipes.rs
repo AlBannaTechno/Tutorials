@@ -1,0 +1,27 @@
+use std::io::process::Command;
+
+static PANGRAM: &'static str = "The quick brown fox jumped over the lazy dog\n";
+
+fn main() {
+    // Spawn the 'wc' command
+    let mut process = match Command::new("wc").spawn() {
+        Err(why) => panic!("couldn't spawn wc: {}", why.desc),
+        Ok(process) => process,
+    };
+
+    {
+        // The 'stdin' field has type 'Option<PipeStream>', 'take' will take the value out of an
+        // 'Option', leaving 'None' in its place.
+        // Note that we take ownership of 'stdin' here
+        let mut stdin = process.stdin.take().unwrap();
+
+        // Write a string to the stdin of 'wc'
+        match stdin.write_str(PANGRAM) {
+            Err(why) => panic!("couldn't write to wc stdin: {}", why.desc),
+            Ok(_) => println!("sent pangram to wc"),
+        }
+
+        // 'stdin' gets 'drop'ed here, and the pipe is closed
+        // This is very important, otherwise 'wc' wouldn't start processing the input we just sent
+    }
+}
