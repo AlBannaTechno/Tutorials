@@ -2,7 +2,7 @@
 
 name = "hello_world"
 version = "0.0.1"
-authors = ["Nick Donais nick.donais@gmail.com"]
+authors = [ "Nick `Slxe` Donais <nick.donais@gmail.com>" ]
 
 [[bin]]
 
