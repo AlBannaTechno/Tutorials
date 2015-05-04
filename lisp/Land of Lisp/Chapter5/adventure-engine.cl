@@ -61,6 +61,9 @@
          `(you are now carrying the ,obj))
         (t '(you cannot get that.))))
 
+(defun inventory ()
+  (cons 'items- (objects-at 'body *objects* *object-locations*)))
+
 
 ;; Playing around
 (assoc 'garden *nodes*)
