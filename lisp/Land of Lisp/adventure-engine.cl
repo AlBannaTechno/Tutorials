@@ -32,9 +32,9 @@
   (apply #'append (mapcar #'describe-path (cdr (assoc location edges)))))
 
 (defun objects-at (loc objs obj-locs)
-  (labels ((at-loc? (obj)
+  (labels ((at-loc-p (obj)
              (eq (cadr (assoc obj obj-locs)) loc)))
-    (remove-if-not #'at-loc? objs)))
+    (remove-if-not #'at-loc-p objs)))
 
 (defun describe-objects (loc objs obj-loc)
   (labels ((describe-obj (obj)
