@@ -99,3 +99,4 @@
 (dot-name '24)
 (nodes->dot *wizard-nodes*)
 (graph->png "wizards.dot" *wizard-nodes* *wizard-edges)
+(ugraph->png "uwizards.dot" *wizard-nodes* *wizard-edges)
