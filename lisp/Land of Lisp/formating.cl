@@ -110,3 +110,17 @@
               (random-animal)
               (random-animal)
               (random-animal)))
+
+;; Iterating through lists using control sequences
+(defparameter *animals* (loop repeat 10 collect (random-animal)))
+
+;; Things put between ~{ and ~} will loop through the given list and print each item with the given
+;; formatting
+(format t "~{I see a ~a! ~}" *animals*)
+
+;; You can also grab more than one
+(format t "~{I see a ~a... or was it a ~a?~%~}" *animals*)
+
+;; Complex formatting for pretty table printouts
+(format t "|~{~<|~%|~,33:;~2d ~>~}|"
+        (loop for x below 100 collect x))

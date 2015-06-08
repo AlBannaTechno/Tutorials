@@ -72,9 +72,10 @@
         (push animal-nu *animals*)))))
 
 (defun update-world ()
-  (setf *animals* (remove-if (lambda (animal)
-                               (<= (animal-energy animal) 0))
-                             *animals*))
+  (setf *animals*
+        (remove-if (lambda (animal)
+                     (<= (animal-energy animal) 0))
+                   *animals*))
   (mapc (lambda (animal)
           (turn animal)
           (move animal)
