@@ -1,0 +1,13 @@
+#+STARTUP: showall
+
+* Welcome to org-mode
+Welcome, and thanks for trying out org-mode. Making outlines in org is very simple. It is just text!
+Just start typing!
+* This is a headline, it starts with one or more stars
+A heading has one star, a sub-heading has two, etc
+** Levels
+*** Are
+**** Fun
+***** To
+****** Play
+******* With!

@@ -1,0 +1,4 @@
+#+STARTUP: showall
+* Org Markup
+Org mode supports a range of markup including *bold*, /italic/, _underlined_. =code= and ~verbatim~,
+and, if you must, +strike-through+
