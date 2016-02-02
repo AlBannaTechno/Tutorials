@@ -1,15 +1,14 @@
 #+Startup: showall
 * Working with lists!
-** Moving around in our outline is simple, ~TAB~ will fold or unfold the selected region
-** While ~S-TAB~ will fold or unfold the whole document, unfolding one region then all regions!
-
-** You can easily create a list / headline with the current style with ~M-RET~ off the last line
-** And move around a list / headline point with ~M-up/down~!
-*** You can promote and demote lists as well with ~M-left/right~!
-** You can cycle list types with ~S-left/right~
-** Unordered lists can start with ~*~, ~-~ or ~+~ characters
-** And ordered lists can start with the format ~#.~
-** Descriptions for lists can be added after ~::~
+- Moving around in our outline is simple, ~TAB~ will fold or unfold the selected region
+- While ~S-TAB~ will fold or unfold the whole document, unfolding one region then all regions!
+- You can easily create a list / headline with the current style with ~M-RET~ off the last line
+- And move around a list / headline point with ~M-up/down~!
+  - You can promote and demote lists as well with ~M-left/right~!
+- You can cycle list types with ~S-left/right~
+- Unordered lists can start with ~*~, ~-~ or ~+~ characters
+- And ordered lists can start with the format ~#.~
+- Descriptions for lists can be added after ~::~
 
 * Let's make a list!
 ** Lord of the Rings
