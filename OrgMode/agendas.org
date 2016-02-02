@@ -1,0 +1,5 @@
+#+STARTUP: showall
+* Agendas
+** To create a new agenda use ~<leader> a~
+
+* Testing them out:
