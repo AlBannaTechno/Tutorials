@@ -1,5 +1,19 @@
 #+STARTUP: showall
+#+TODO: TODO IN-PROGRESS DONE
 * Agendas
-** To create a new agenda use ~<leader> a~
+- To access the agenda menu use ~<leader> a~
+- You can add the current file to org-agenda with ~C-c [~ (can't find evil keybind for this)
+- You can remove the current file from org-agenda with ~C-c ]~ (again can't find evil keybind for this)
+- You can add a timestamp with ~<leader> .~, to select a date use ~S-left/right~ and simply type in a time
+- You can create schedules with ~<leader> s~ and deadlines with ~<leader> d~
+- To manually use a file as an agenda file, you can add the following to your ~.spacemacs~ folder
+  #+BEGIN_SRC emacs-lisp
+    (org-agenda-files '("folder/agenda.org"))
+  #+END_SRC
 
 * Testing them out:
+** TODO grab the mail
+** TODO feed the cat
+** TODO clean the bathroom
+** TODO win at programming
+** Call Fred<2016-02-03 Wed 00:30>

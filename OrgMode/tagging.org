@@ -1,0 +1,20 @@
+#+STARTUP: showall
+#+TAGS: { @OFFICE(o) @HOME(h) } COMPUTER(c) PHONE(p) READING(r)
+* Tagging Lines
+- You can set custom tags for the file with the ~#+TAGS~ configuration line
+- Tags can be made mutually exclusive by putting them in ~{ }~
+- Once set, a line can be tagged by pulling up the tag interface with ~<leader> <leader>~
+- Again, you can add tags in the ~.spacemacs~ file as well by
+  #+BEGIN_SRC emacs-lisp
+    (setq org-tag-alist
+          '((:startgroup . nil) ("@OFFICE" . ?o) ("@HOME" . ?h) (:endgroup . nil)
+            ("COMPUTER" . ?c) ("PHONE" . ?p) ("READING" . ?r)))
+  #+END_SRC
+
+* Time to get our Tag on                                   :@OFFICE:COMPUTER:
+
+** Some more stuff                                     :@HOME:PHONE:READING:
+
+***                                                       :@OFFICE:READING:
+
+* The end                                                             :@HOME:
