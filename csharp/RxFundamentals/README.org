@@ -1,0 +1,5 @@
+#+STARTUP: showall
+* .NET Reactive Extensions Fundamentals 1.0 Tutorial Code
+NOTE: This code is written in C# 6.0 and using Rx 2.2, so it may differ from the course work
+
+PluralSight link: https://app.pluralsight.com/library/courses/reactive-extensions

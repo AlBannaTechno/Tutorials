@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c72a20d0-1fdd-49c6-8689-69460b460a9c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/util/src/EduTestRunner.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../OrgMode/todo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../OrgMode/todo.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../OrgMode/todo.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../OrgMode/todo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/All_tests.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Html_Demo.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/guava-16.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/junit-4.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_0_Hello_World/HelloWorld.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_10_Object_Expressions/ObjectExpressions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_11_SAM_Conversions/SAMConversions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_12_Extensions_On_Collections/ExtensionsOnCollections.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_1_Java_To_Kotlin_Converter/JavaCode1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_1_Java_To_Kotlin_Converter/JavaToKotlinConverter.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_2_Named_Arguments/NamedArguments.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_3_Default_Arguments/DefaultAndNamedParams.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_3_Default_Arguments/JavaCode2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_4_Lambdas/JavaCode3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_4_Lambdas/Lambdas.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_5_String_Templates/StringTemplates.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_6_Data_Classes/DataClasses.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_6_Data_Classes/JavaCode7.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_7_Nullable_Types/JavaCode5.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_7_Nullable_Types/NullableTypes.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_8_Smart_Casts/JavaCode6.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_8_Smart_Casts/SmartCasts.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_9_Extension_Functions/ExtensionFunctions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/i_introduction/_9_Extension_Functions/JavaCode8.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_13_Introduction_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_14_FilterMap.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_15_AllAnyAndOtherPredicates.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_16_FlatMap.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_17_MaxMin.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_18_Sort_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_19_Sum_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_20_GroupBy.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_21_Partition_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_22_Fold_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_23_CompoundTasks.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_24_ExtensionsOnCollections.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/_24_JavaCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/shop.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ii_collections/todoUtil.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/MyDate.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/MyDateUtil.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_25_Comparison_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_26_InRange.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_27_RangeTo.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_28_ForLoop.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_29_OperatorsOverloading.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_29_Tips.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_30_DestructuringDeclarations.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iii_conventions/_31_Invoke_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iv_properties/_32_Properties_.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iv_properties/_33_LazyProperty.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iv_properties/_34_DelegatesExamples.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/iv_properties/_35_HowDelegatesWork.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/casts.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/classesObjectsInterfaces.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/enums.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/forWhileLoops.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/ifWhenExpressions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/javaCollections.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/lambdas.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/numberConstants.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/objectExpressions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/operatorOverloading.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/properties.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/qualifiedThis.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/tryExpression.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/syntax/varargsAndArrays.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/JavaCode.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/LinksToDocumentation.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/YourOldJavaCodeUsingRunnable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/kotlinUtil.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/questions/Question.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/_36_ExtensionFunctionLiterals.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/_37_StringAndMapBuilders.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/_38_TheFunctionApply.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/_39_HtmlBuilders.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/_40_BuildersHowItWorks.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/data.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/html.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/v_builders/htmlDemo.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vi_generics/_41_GenericFunctions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_0_Hello_World/_00_Start.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_10_Object_Expressions/_10_Object_Expressions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_11_SAM_Conversions/_11_SAM_Conversions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_12_Extensions_On_Collections/_12_Extensions_On_Collections.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_1_Java_To_Kotlin_Converter/_01_Functions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_2_Named_Arguments/_02_Default_And_Named_Params.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_3_Default_Arguments/_03_Default_Arguments.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_4_Lambdas/_03_Lambdas.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_5_String_Templates/_04_String_Templates.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_6_Data_Classes/_07_Data_Classes.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_7_Nullable_Types/_05_Nullable_Types.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_8_Smart_Casts/_06_Smart_Casts.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/i_introduction/_9_Extension_Functions/_08_Extension_Functions.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/ShopBuilders.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/TestShop.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_13_Introduction.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_14_Filter_Map.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_15_All_Any_And_Other_Predicates.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_16_Flat_Map.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_17_Max_Min.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_18_Sort.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_19_Sum.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_20_Group_By.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_21_Partition.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_22_Fold.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_23_Compound_Tasks.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/ii_collections/_24_Extensions_On_Collections.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/DateUtil.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_25_Comparison.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_26_In_Range.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_27_Range_To.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_28_For_Loop.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_29_Operators_Overloading.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_30_Multi_Assignment.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iii_conventions/_31_Invoke.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iv_properties/_32_Properties.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iv_properties/_33_Lazy_Property.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iv_properties/_34_Delegates_Examples.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/iv_properties/_35_Delegates_How_It_Works.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/util/AdditionalTest.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/v_builders/_36_Extension_Function_Literals.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/v_builders/_37_String_And_Map_Builders.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/v_builders/_38_The_Function_Apply.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/v_builders/_39_Html_Builders.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/v_builders/_40_Builders_How_It_Works.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/vi_generics/_41_Generic_Functions.kt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kotlin-koans.iml" afterPath="$PROJECT_DIR$/kotlin-koans.iml" />
+    </list>
+    <ignored path="kotlin-koans.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kotlin-koans" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDate.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="EduTestRunner" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson1/task1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task5/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task6/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task7/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task8/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task10/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task11/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task12/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task13/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson2/task1/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson2/task2/src/Task.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin-koans" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson2" />
+              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task2" />
+              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlin-koans" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c72a20d0-1fdd-49c6-8689-69460b460a9c" name="Default" comment="" />
+      <created>1459197707825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1459197707825</updated>
+      <workItem from="1459197712659" duration="606000" />
+      <workItem from="1459198372202" duration="2715000" />
+      <workItem from="1459205559381" duration="10000" />
+      <workItem from="1459270124619" duration="938000" />
+      <workItem from="1459442733479" duration="954000" />
+      <workItem from="1461684823341" duration="32000" />
+      <workItem from="1462461536148" duration="42000" />
+      <workItem from="1462482594950" duration="135000" />
+      <workItem from="1462542692668" duration="744000" />
+      <workItem from="1462975496788" duration="37000" />
+      <workItem from="1462975590472" duration="46000" />
+      <workItem from="1463580253901" duration="61000" />
+      <workItem from="1464186643637" duration="50000" />
+      <workItem from="1464186762664" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6383000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3187166" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13219616" sideWeight="0.43850267" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13219616" sideWeight="0.56149733" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3464819" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14658849" sideWeight="0.5074946" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3197492" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="60" selection-start-line="0" selection-start-column="60" selection-end-line="0" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task11/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task11/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/src/JavaCode.java">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="64">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="95" selection-start-line="0" selection-start-column="95" selection-end-line="0" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="67" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="85" selection-start-line="0" selection-start-column="85" selection-end-line="0" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="32">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task8/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="80">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task9/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="48">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task11/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="128">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task12/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="64">
+          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task13/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="16">
+          <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task1/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/task2/src/MyDate.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

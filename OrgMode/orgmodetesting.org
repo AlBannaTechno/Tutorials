@@ -1,0 +1,101 @@
+#+STARTUP: showall
+* Shapes and Diagrams
+** Simple Boxes
+#+begin_src ditaa :file ditaa-simpleboxes.png
++----------+
+|          |
+| Foo      |
+|          |
++----+-----+---+
+|Bar |Baz      |
+|    |         |
++----+---------+
+#+end_src
+
+** Unseparated Boxes
+#+begin_src ditaa :file ditaa-simpleboxes-unsep.png :cmdline -E
++----------+
+|          |
+| Foo      |
+|          |
++----+-----+---+
+|Bar |Baz      |
+|    |         |
++----+---------+
+#+end_src
+
+** Connected Elements with Colours
+#+begin_src ditaa :file ditaa-seqboxes.png
++------+   +-----+   +-----+   +-----+
+|{io}  |   |{d}  |   |{s}  |   |cBLU |
+| Foo  +---+ Bar +---+ Baz +---+ Moo |
+|      |   |     |   |     |   |     |
++------+   +-----+   +--+--+   +-----+
+                        |
+           /-----\      |      +------+
+           |     |      |      | C1AB |
+           | Goo +------+---=--+ Shoo |
+           \-----/             |      |
+                               +------+
+#+end_src
+
+* UML Test with PlantUML
+
+** Class Diagram
+#+begin_src plantuml :file class_diagram.png
+skinparam monochrome true
+FitsHdu <|-- PrimaryHdu
+FitsHdu <|-- ExtensionHdu
+
+FitsHdu : header
+FitsHdu : getHeaderKeyword()
+
+ExtensionHdu <|-- ImageHdu
+ImageHdu : image
+ImageHdu : getPixel(row, column)
+
+ExtensionHdu <|-- BinaryTableHdu
+BinaryTableHdu : table
+BinaryTableHdu : getRow(row)
+BinaryTableHdu : getColumn(column)
+#+end_src
+
+** Sequence Diagram
+#+begin_src plantuml :file sequence_diagram.png
+skinparam monochrome true
+ Foo -> Bar: synchronous call
+ Foo ->> Bar: asynchronous call
+#+end_src
+
+* Code Examples
+
+#+begin_src python
+def times_two(x):
+    y = x * 2
+    return y
+
+print times_two(5)
+#+end_src
+
+#+begin_src python :results output :exports both
+def times_two(x):
+    y = x * 2
+    return y
+
+print times_two(5)
+#+end_src
+
+#+results:
+: 10
+
+#+begin_src python :exports both
+a = ('b', 200)
+b = ('x', 10)
+c = ('q', -42)
+return (a, b, c)
+#+end_src
+
+#+results:
+| b | 200 |
+| x |  10 |
+| q | -42 |

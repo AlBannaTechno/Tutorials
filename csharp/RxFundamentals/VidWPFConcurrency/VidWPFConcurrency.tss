@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>E:\Github\Tutorials\csharp\RxFundamentals\VidWPFConcurrency\VidWPFConcurrency\MainWindow.xaml</string>
+      <string>E:\Github\Tutorials\csharp\RxFundamentals\VidWPFConcurrency\VidWPFConcurrency\MainWindow.xaml.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
